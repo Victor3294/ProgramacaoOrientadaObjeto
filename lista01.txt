@@ -1,9 +1,5 @@
 👨‍🏫 Instruções gerais:
 
-Crie um diretório chamado lab-04 no seu repositório do GitHub Classroom.
-
-Dentro de cada exercício, crie um subdiretório com um projeto Gradle.
-
 Cada exercício deve conter uma classe com método main() para testar o funcionamento da classe principal.
 
 Faça um commit após a conclusão de cada exercício.
