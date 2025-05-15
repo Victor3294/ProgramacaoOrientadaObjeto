@@ -15,5 +15,14 @@ public class App {
         System.out.println(r1.toString());
         System.out.println(r3.calculaArea());
         System.out.println(r3.calculaPerimetro());
+        Cilindro c1 = new Cilindro(r1, 12);
+        Cilindro c2 = new Cilindro(13);
+        Cilindro c3 = new Cilindro();
+        c3.setBaseCilindro(r1);
+        c3.setAlturaCilindro(15);
+        System.out.println(c1.toString());
+        System.out.println(c2.toString());
+        System.out.println(c3.calcularVolume());
+        System.out.println(c3.toString());
     }
 }
